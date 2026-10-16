@@ -28,15 +28,7 @@ By analyzing multi-annotator disagreement, predicted uncertainty, and segmentati
 
 ## Experimental Results
 
-UDS-Net was evaluated on **MAOD-Seg**, a multi-annotator orthodontic panoramic radiograph dataset containing pixel-level tooth annotations from three experienced orthodontists.
-
-The proposed method achieved:
-
-- **Dice:** 95.41%
-- **IoU:** 91.25%
-- **Precision:** 95.86%
-
-Experimental comparisons demonstrated improved segmentation performance over representative conventional and uncertainty-aware segmentation methods, particularly in challenging tooth and root boundary regions.
+UDS-Net was evaluated on the MAOD-Seg test set and achieved promising results compared with recent medical image segmentation models and representative uncertainty-aware approaches, including the probabilistic method **Probabilistic U-Net** and the evidential uncertainty estimation method **UA-AHF-UNet**. These results suggest the effectiveness of UDS-Net in segmenting complex tooth structures and ambiguous boundaries.
 
 ## Research Significance
 
