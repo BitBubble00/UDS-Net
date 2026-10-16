@@ -3,5 +3,5 @@
 ![UDS-Net](Image/UDS-Net.jpg)
 
 
-![Uncertainty-Guided_Correction_Experiment](Image/Uncertainty-Guided_Correction_Experiment.jpg)
+![Uncertainty-Guided_Correction_Experiment](Uncertainty-Guided_Correction_Experiment.jpg)
 
