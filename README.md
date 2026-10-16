@@ -2,6 +2,6 @@
 
 ![UDS-Net](Image/UDS-Net.jpg)
 
-![HADD](Image/HADD.jpg)
 
-![MAFM](Image/MAFM.jpg)
+![Uncertainty-Guided Correction Experiment](Image/Uncertainty-Guided Correction Experiment.jpg)
+
